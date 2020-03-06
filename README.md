@@ -1,1 +1,1 @@
-We developed a stock return model and evaluated the market risk, credit risk and liquidity risk for high and low beta companies, and summarized the relationship between risks and company traits of 18 public companies traded at the Toronto Stock Exchange(TSX).
+We developed a stock return model and evaluated the market risk, credit risk and liquidity risk for high and low beta companies, and summarized the relationship between risks and company traits of 18 public companies from various industries and market capitalization levels traded at the Toronto Stock Exchange(TSX).
